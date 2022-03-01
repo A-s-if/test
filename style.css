@@ -1,0 +1,77 @@
+h2{
+    color: red;
+}
+#h2{
+    color: aqua;
+}
+
+
+
+#country{
+    text-align: center;
+}
+
+
+#span{
+    color: rgb(20, 235, 199);
+}
+#inpt{
+    width: 500px;
+    height: 50px;
+    border-radius: 5px 0px 0px 5px;
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+#search-btn{
+    border: none;
+    height: 56px;
+    width: 100px;
+    background-color: rgb(8, 8, 139);
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+    cursor: pointer;
+    margin-left: -5px;
+    font-size: 20px;
+    position: relative;
+    bottom:4px;
+}
+#search-btn:hover{
+    background-color: rgb(31, 31, 197);
+}
+
+#hide{
+    display: none;
+}
+
+
+#search{
+    text-align: center;
+}
+
+#show-more-btn{
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(11, 132, 202);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+#show-more-btn:hover{
+    font-size: 22px;
+    padding: 2px 4px;
+}
+#show-less-btn{
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(11, 132, 202);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    display: none;
+}
+#show-less-btn:hover{
+    font-size: 22px;
+    padding: 2px 4px;
+}
